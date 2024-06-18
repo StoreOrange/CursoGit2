@@ -23,7 +23,7 @@ git help <comandos>*
 #### Configura el usuario
 ```
 git config --global user.name <usuario>
-```
+```65465456
 
 #### Configura el email
 ```
